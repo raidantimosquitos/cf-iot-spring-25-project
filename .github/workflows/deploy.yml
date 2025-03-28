@@ -13,13 +13,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: true  # Ensure themes are included
-          fetch-depth: 0  # Full history for commits
+          submodules: true # Ensure themes are included
+          fetch-depth: 0 # Full history for commits
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: "latest"
 
       - name: Build the website
         run: |
@@ -34,4 +34,5 @@ jobs:
           publish_branch: gh-pages-deployment
 
       - name: Confirm Deployment URL
-        run: echo "Website deployed to: https://raidantimosquitos.github.io/cf-iot-spring-25-project"
+        run: |
+          echo "Website deployed to: https://raidantimosquitos.github.io/cf-iot-spring-25-project"
