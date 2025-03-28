@@ -1,0 +1,1 @@
+(()=>{(function(){document.querySelectorAll(".responsive-table").forEach(function(e){let t=e.querySelectorAll("th");e.querySelectorAll("tbody tr").forEach(function(o){o.querySelectorAll("td").forEach(function(r,l){r.setAttribute("role","cell"),t[l].innerText&&r.setAttribute("aria-label",t[l].innerText)})})})})();})();
