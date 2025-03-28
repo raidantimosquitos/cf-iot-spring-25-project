@@ -25,7 +25,7 @@ jobs:
       - name: Build the website
         run: |
           cd website
-          hugo --minify --destination ../public
+          hugo --minify --config hugo.production.toml --environment production --destination ../public
 
       - name: Deploy to gh-pages-deployment branch
         uses: peaceiris/actions-gh-pages@v4

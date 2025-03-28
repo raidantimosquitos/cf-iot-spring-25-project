@@ -3,70 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/website/blog/</loc>
+    <lastmod>2025-03-27T11:02:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/products/</loc>
-    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/website/tags/ai/</loc>
-    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/website/tags/analytics/</loc>
-    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/website/categories/</loc>
-    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/website/products/prod02/</loc>
-    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/website/tags/dashboard/</loc>
-    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
+    <lastmod>2025-03-17T11:02:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/</loc>
-    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
+    <lastmod>2025-03-27T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/blog/the-role-of-5g-in-revolutionizing-healthcare/</loc>
+    <lastmod>2025-03-27T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/blog/the-future-of-healthcare/</loc>
+    <lastmod>2025-03-25T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/tags/ai/</loc>
+    <lastmod>2025-03-17T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/tags/analytics/</loc>
+    <lastmod>2025-03-17T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/categories/</loc>
+    <lastmod>2025-03-17T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/products/prod02/</loc>
+    <lastmod>2025-03-17T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/tags/dashboard/</loc>
+    <lastmod>2025-03-17T11:02:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/categories/gui/</loc>
-    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
+    <lastmod>2025-03-17T11:02:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/tags/monitoring/</loc>
-    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
+    <lastmod>2025-03-17T11:02:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/categories/software/</loc>
-    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
+    <lastmod>2025-03-17T11:02:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/tags/</loc>
-    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
+    <lastmod>2025-03-17T11:02:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/tags/accelerometer/</loc>
-    <lastmod>2023-09-01T11:02:25+02:00</lastmod>
+    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/tags/band/</loc>
-    <lastmod>2023-09-01T11:02:25+02:00</lastmod>
+    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/categories/device/</loc>
-    <lastmod>2023-09-01T11:02:25+02:00</lastmod>
+    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/categories/hardware/</loc>
-    <lastmod>2023-09-01T11:02:25+02:00</lastmod>
+    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/tags/heartrate/</loc>
-    <lastmod>2023-09-01T11:02:25+02:00</lastmod>
+    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/tags/iot/</loc>
-    <lastmod>2023-09-01T11:02:25+02:00</lastmod>
+    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/products/prod01/</loc>
-    <lastmod>2023-09-01T11:02:25+02:00</lastmod>
+    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/tags/wearable/</loc>
-    <lastmod>2023-09-01T11:02:25+02:00</lastmod>
+    <lastmod>2025-03-01T11:02:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/website/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/website/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/website/blog/the-future-of-healthcare/</loc>
-  </url><url>
-    <loc>http://localhost:1313/website/blog/the-role-of-5g-in-revolutionizing-healthcare/</loc>
   </url>
 </urlset>
