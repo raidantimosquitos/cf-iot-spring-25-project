@@ -27,7 +27,7 @@ Contains all the files for the website of the project.
 
 Contains all source code for our device, dashboard, AWS scripts, etc.
 
-{{< figure src="images/wearable-device-architecture-diagram.png" class="center" caption="Smart Wearable Device Architecture Diagram"  alt="System Architecture" >}}
+[!System Architecture](images/system_architecture.png)
 
 ---
 
