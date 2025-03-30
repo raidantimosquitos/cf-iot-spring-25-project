@@ -2,9 +2,7 @@
 title: "Group 5 Project - CFIoT Spring 2025"
 ---
 
-# Smart IoT Health Monitoring Wearable System
-
-## Welcome to our IoT elder smart healthcare monitoring system
+# Welcome to our IoT elder smart healthcare monitoring system
 
 In an era where healthcare is rapidly evolving, our **IoT Smart Healthcare Monitoring Wearable** offers an innovative, cost-effective solution designed for **retirement homes and hospitals**. This advanced device provides centralized, real-time patient monitoring, ensuring enhanced care and timely intervention.
 

@@ -27,6 +27,8 @@ Contains all the files for the website of the project.
 
 Contains all source code for our device, dashboard, AWS scripts, etc.
 
+{{< figure src="images/wearable-device-architecture-diagram.png" class="center" caption="Smart Wearable Device Architecture Diagram"  alt="System Architecture" >}}
+
 ---
 
 ## Workflows directory (`.github/workflows/`)
@@ -38,3 +40,5 @@ The `deploy.yml` script in `.github/workflows/` is used to deploy the website to
 - The website is then hosted on GitHub Pages.
 
 In conclusion, what `gh-pages-deployment` branch contains is the built website.
+
+To access the website use the following [link](https://raidantimosquitos.github.io/cf-iot-spring-25-project/).
