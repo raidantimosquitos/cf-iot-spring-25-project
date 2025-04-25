@@ -1,32 +1,57 @@
 ---
-title: "Group 5 Project - CFIoT Spring 2025"
+title: "SH+™"
 ---
 
-# Welcome to our IoT elder smart healthcare monitoring system
+# Welcome to SH+™
 
-In an era where healthcare is rapidly evolving, our **IoT Smart Healthcare Monitoring Wearable** offers an innovative, cost-effective solution designed for **retirement homes and hospitals**. This advanced device provides centralized, real-time patient monitoring, ensuring enhanced care and timely intervention.
+## _Smart Health Starts Here_.
+
+**SH+™ is your end-to-end solution for continuous, connected, and intelligent healthcare monitoring.**
+From the wrist to the cloud, we empower caregivers, clinicians, and researchers with real-time health insights—driven by precision hardware and AI-powered analytics.
 
 {{< figure src="images/jaddy-liu-nk-xUZwSjR4-unsplash.jpg" class="center" caption="July 2023, Jaddy Liu"  alt="Image 1" >}}
 
-## Key features
+## 💡 What We Do
 
-- **Heart Rate Monitoring**: Continuously tracks heart rate, alerting caregivers to irregularities.
-- **Accelerometer**: Detects movement and potential falls, helping prevent injuries.
-- **Centralized Dashboard**: Provides a comprehensive view of all monitored patients in one intuitive interface.
-- **Historical Data Tracking**: Enables healthcare professionals to analyze trends and improve patient outcomes.
-- **AI-enabled diagnosis**: Usage of AI and Machine Learning algorithms to study and predict outcomes.
+**SH+™** delivers a full-stack remote health monitoring system combining:
 
-{{< figure src="images/national-cancer-institute-L8tWZT4CcVQ-unsplash.jpg" class="center" caption="December 2019, National Cancer Institute"  alt="Image 2" >}}
+- 🎯 **SH+™ wearable band** — our smart wearable with integrated motion and biometric sensing.
+- 🌐 **SH+™ cloud** — the centralized AI-enabled dashboard for data visualization, alerting, and insights.
 
-## Why choose our solution?
+## 🔧 End-to-End capabilities
 
-- **Affordable & Scalable**: A cost-effective alternative to expensive monitoring systems.
-- **Real-Time Alerts**: Instant notifications for critical conditions, reducing response times.
-- **Secure & Reliable**: Ensures patient data privacy and system stability.
-- **Easy Integration**: Works within existing healthcare infrastructure for a smooth transition.
+| SH+™ wearable band           | SH+™ cloud                          |
+| ----------------------------- | ------------------------------------ |
+| ✅ IMU + Pulse Sensor         | ✅ Real-Time Dashboards              |
+| ✅ Buzzer Alerts              | ✅ AI-Powered Anomaly Detection      |
+| ✅ Wi-Fi Gateway Connectivity | ✅ Secure, Encrypted Cloud           |
+| ✅ Comfortable, Discreet Wear | ✅ Device Management + Remote Config |
+
+## 🔥 Why it matters?
+
+> [!NOTE] Traditional healthcare reacts.
+> **SH+™ anticipates.**
+> Imagine knowing your patient’s vitals changed **before they feel it**.
+> Imagine spotting a fall risk **before it happens**.
+> Imagine managing thousands of devices **without breaking a sweat**.
 
 {{< figure src="images/rajiv-perera-_JjYYsQPneE-unsplash.jpg" class="center" caption="January 2021, Rajiv Perera"  alt="Image 3" >}}
 
-Our mission is to empower caregivers and medical professionals with the tools they need to **enhance patient care and safety**. By leveraging IoT technology, we provide a **streamlined**, **centralized** monitoring solution that ensures **peace of mind** for both healthcare providers and families.
+## 👥 Who It’s For
 
-Join us in transforming healthcare—one patient at a time.
+- **Hospitals & Clinics**: Scalable remote monitoring with clinical-grade data.
+- **Elder Care Providers**: Passive safety tracking with instant alerts.
+- **Researchers**: Rich, high-resolution sensor data with API access.
+- **Digital Health Startups**: Plug-and-play hardware + cloud backend.
+
+{{< figure src="images/national-cancer-institute-L8tWZT4CcVQ-unsplash.jpg" class="center" caption="December 2019, National Cancer Institute"  alt="Image 2" >}}
+
+## 🚀 Ready to Build the Future of Connected Care?
+
+- 👉 Explore the Wearable → [SH+™ Wearable Band]({{< ref "/products/prod01" >}}).
+- 👉 Dive into the Dashboard → [SH+™ Cloud]({{< ref "/products/prod02" >}}).
+- 👉 Or [Talk to Us]({{< ref "/contact" >}}) about integration & deployment.
+
+### **SH+™** — _Because real-time health deserves real-time insight._
+
+---
