@@ -36,7 +36,7 @@ params:
     url: "https://raidantimosquitos.github.io/lucas-herranz"
   contact: "lucashg97@hotmail.com"
   copyright: '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
-  description: "Smart health monitoring wearable device"
+  description: "SH+ - Smart Healthcare Plus - The ultimate health monitoring solution"
   dateformat: "2 January, 2006"
   favicon: "apple-touch-icon.png"
   feedlinks: true

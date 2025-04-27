@@ -29,11 +29,11 @@ From the wrist to the cloud, we empower caregivers, clinicians, and researchers 
 
 ## 🔥 Why it matters?
 
-> [!NOTE] Traditional healthcare reacts.
-> **SH+™ anticipates.**
-> Imagine knowing your patient’s vitals changed **before they feel it**.
-> Imagine spotting a fall risk **before it happens**.
-> Imagine managing thousands of devices **without breaking a sweat**.
+_Traditional healthcare reacts._ **SH+™ anticipates.**
+
+- Imagine knowing your patient’s vitals changed **before they feel it**.
+- Imagine spotting a fall risk **before it happens**.
+- Imagine managing thousands of devices **without breaking a sweat**.
 
 {{< figure src="images/rajiv-perera-_JjYYsQPneE-unsplash.jpg" class="center" caption="January 2021, Rajiv Perera"  alt="Image 3" >}}
 
