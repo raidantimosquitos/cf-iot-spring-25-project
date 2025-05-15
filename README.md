@@ -27,7 +27,7 @@ Contains all the files for the website of the project.
 
 Contains all source code for our device, dashboard, AWS scripts, etc.
 
-The current testing dashboard [Link]([https://github.com/features/actions](https://g-0ccaa910f7.grafana-workspace.ap-northeast-1.amazonaws.com/dashboard/snapshot/SZErytxA0MA9OlcVpogfgWKLsQ3MHibD))
+The current testing dashboard [Link](https://github.com/features/actions](https://g-0ccaa910f7.grafana-workspace.ap-northeast-1.amazonaws.com/dashboard/snapshot/SZErytxA0MA9OlcVpogfgWKLsQ3MHibD)
 
 ![System Architecture](images/wearable-device-architecture-diagram.png)
 
