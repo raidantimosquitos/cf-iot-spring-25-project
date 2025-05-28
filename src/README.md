@@ -100,6 +100,24 @@ static const char AWS_CERT_PRIVATE[] PROGMEM = R"EOF(
 - **Publish Topic**: `esp32/pub` (sensor data)
 - **Subscribe Topic**: `esp32/sub` (commands/messages)
 
+### 4. Amazon Timestream Setup
+
+1. Create database and table in the AWS Console
+2. Set data retention rule of table
+3. Set message routing rule of IoT Core to connect Timestream
+4. Use query editor by SQL statement to verify data
+```sql
+SELECT * FROM "your database name"."your table name" where measure_name like 'your variable name'
+```
+
+### 5. Amazon Grafana Setup
+
+1. Create workspace and assign admin by IAM Identity Center
+2. Create dashboard and add Timestream as data source
+3. Edit query code with SQL statement to get data 
+4. Edit the designing of panel
+5. Create a sharing link
+
 ## System Operation
 
 ### Heart Rate Monitoring
