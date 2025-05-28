@@ -247,6 +247,12 @@ Publishes JSON data every ~5 seconds:
 - Monitor at 115200 baud for debugging information
 - Key indicators: WiFi status, sensor readings, AWS connection status
 
+### Data Not Found In Database
+- Ensure the data type or name in SQL statement is correct
+
+### Can Not Edit Dashboard
+- Ensure the current user type is editor or admin
+
 ## Technical Specifications
 
 - **Microcontroller**: ESP32 (240MHz dual-core)
