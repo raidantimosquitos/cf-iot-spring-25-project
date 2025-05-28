@@ -200,6 +200,12 @@ Publishes JSON data every ~5 seconds:
 - Buzzer will sound if fall is detected
 - Fall status is transmitted to AWS IoT
 
+### Check Dashboard
+
+- Click the dashboard [link](https://g-0ccaa910f7.grafana-workspace.ap-northeast-1.amazonaws.com/dashboard/snapshot/2YM7KBOVAna2n3X4GStr6St3qFcC2zOk) by computer or smartphone
+- Monitor the current state of heart rate and fall detection
+- (Optional) Set the time range
+
 ## Troubleshooting
 
 ### Common Issues
