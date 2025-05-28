@@ -7,6 +7,8 @@ A comprehensive health monitoring system built with ESP32 that detects falls and
 - **Real-time Heart Rate Monitoring**: Continuous BPM tracking with MAX30105 pulse oximeter sensor
 - **Fall Detection**: Accelerometer-based fall detection using MPU6050 sensor
 - **AWS IoT Integration**: Secure MQTT communication with AWS IoT Core
+- **Amazon Timestream Integration**: Store data in AWS Cloud
+- **Amazon Grafana Integration**: Connect IoT Core and Timestream services and show dashboard
 - **Audio Alerts**: Buzzer notification system for detected falls
 - **Health Interpretation**: Automatic heart rate classification (low, normal, elevated, high)
 - **Wireless Connectivity**: WiFi-enabled for remote monitoring
