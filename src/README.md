@@ -114,9 +114,12 @@ SELECT * FROM "your database name"."your table name" where measure_name like 'yo
 
 1. Create workspace and assign admin by IAM Identity Center
 2. Create dashboard and add Timestream as data source
-3. Edit query code with SQL statement to get data 
-4. Edit the designing of panel
-5. Create a sharing link
+3. Edit query code with SQL statement to get data
+```sql
+SELECT * FROM "your database name"."your table name" where measure_name like 'your variable name'
+```
+5. Edit the designing of panel
+6. Create a sharing link
 
 ## System Operation
 
