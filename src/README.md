@@ -118,8 +118,8 @@ SELECT * FROM "your database name"."your table name" where measure_name like 'yo
 ```sql
 SELECT * FROM "your database name"."your table name" where measure_name like 'your variable name'
 ```
-5. Edit the designing of panel
-6. Create a sharing link
+4. Edit the designing of panel
+5. Create a sharing link
 
 ## System Operation
 
