@@ -172,6 +172,7 @@ Publishes JSON data every ~5 seconds:
    - Create and populate `secrets.h`
    - Set up AWS IoT Thing and certificates
    - Configure WiFi credentials
+   - Set up AWS Timestream and Grafana
 
 5. **Upload Code**:
    - Open the main `.ino` file in Arduino IDE
