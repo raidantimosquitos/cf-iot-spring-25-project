@@ -35,12 +35,10 @@ The current testing dashboard [link](https://g-0ccaa910f7.grafana-workspace.ap-n
 
 ## Workflows directory (`.github/workflows/`)
 
-The `deploy.yml` script in `.github/workflows/` is used to deploy the website to GitHub Pages. To do so we use what is known as [GitHub Actions](https://github.com/features/actions).
+The `deploy.yml` script in `.github/workflows/` is used to deploy the website to GitHub Pages. To do so we use what is known as [GitHub Actions](https://github.com/features/actions). Here is how it works:
 
-- It is triggered by a push to the `main` branch.
+- The `deploy.yml` script is triggered by a push to the `main` branch of the repository.
 - The script builds the website and deploys it to the `gh-pages-deployment` branch.
-- The website is then hosted on GitHub Pages.
+- The website is then hosted on GitHub Pages and can be accessed from the following [link](https://raidantimosquitos.github.io/cf-iot-spring-25-project/).
 
-In conclusion, what `gh-pages-deployment` branch contains is the built website.
-
-To access the website use the following [link](https://raidantimosquitos.github.io/cf-iot-spring-25-project/).
+In conclusion, what `gh-pages-deployment` branch contains is the website's source code, which is then served with GitHub pages.
