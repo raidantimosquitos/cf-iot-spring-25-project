@@ -9,6 +9,12 @@
 &lt;/a>
 &lt;/div>
 &lt;p>Whether your patients are managing a chronic condition, recovering from an injury, or simply want peace of mind, &lt;strong>SH+™ wearable band&lt;/strong> is designed to bring clinical-grade insight to your patients wrist -without interrupting their lives.&lt;/p>
+&lt;figure class="image center">
+&lt;img src="https://raidantimosquitos.github.io/cf-iot-spring-25-project/images/wearable_device_2.jpg" loading="lazy" alt="SH&amp;#43; Wearable Band" width="400" height="300">
+&lt;figcaption>
+SH+™ Wearable Band&lt;/figcaption>
+&lt;/figure>
+
 &lt;div class="anchor">
 &lt;h2 id="key-features" id="key-features">Key features&lt;/h2>
 &lt;a class="" href="#key-features" aria-label=": Key features">
@@ -20,8 +26,8 @@
 &lt;/a>
 &lt;/div>
 &lt;div class="anchor">
-&lt;h3 id="-imu-inertia-measuring-unit" id="-imu-inertia-measuring-unit">🧭 IMU (Inertia Measuring Unit)&lt;/h3>
-&lt;a class="" href="#-imu-inertia-measuring-unit" aria-label=": 🧭 IMU (Inertia Measuring Unit)">
+&lt;h3 id="imu-inertia-measuring-unit" id="imu-inertia-measuring-unit">IMU (Inertia Measuring Unit)&lt;/h3>
+&lt;a class="" href="#imu-inertia-measuring-unit" aria-label=": IMU (Inertia Measuring Unit)">
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
  &lt;path stroke="none" d="M0 0h24v24H0z" fill="none" />
  &lt;path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
@@ -31,8 +37,8 @@
 &lt;/div>
 &lt;p>Track body movement, posture, and fall events with a high-precision IMU. From subtle shifts to sudden impacts, &lt;strong>SH+™ wearable band&lt;/strong> captures motion data in real time—useful for physical therapy monitoring, elderly care, and fall detection.&lt;/p>
 &lt;div class="anchor">
-&lt;h3 id="-pulse-sensor" id="-pulse-sensor">💗 Pulse Sensor&lt;/h3>
-&lt;a class="" href="#-pulse-sensor" aria-label=": 💗 Pulse Sensor">
+&lt;h3 id="pulse-sensor" id="pulse-sensor">Pulse Sensor&lt;/h3>
+&lt;a class="" href="#pulse-sensor" aria-label=": Pulse Sensor">
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
  &lt;path stroke="none" d="M0 0h24v24H0z" fill="none" />
  &lt;path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
@@ -42,8 +48,8 @@
 &lt;/div>
 &lt;p>Continuously monitor heart rate with a built-in optical pulse sensor. Whether it&amp;rsquo;s resting, active, or irregular rhythms, our system detects it and flags anomalies for review by health professionals or caregivers.&lt;/p>
 &lt;div class="anchor">
-&lt;h3 id="-buzzer-alert-system" id="-buzzer-alert-system">📢 Buzzer-alert system&lt;/h3>
-&lt;a class="" href="#-buzzer-alert-system" aria-label=": 📢 Buzzer-alert system">
+&lt;h3 id="buzzer-alert-system" id="buzzer-alert-system">Buzzer-alert system&lt;/h3>
+&lt;a class="" href="#buzzer-alert-system" aria-label=": Buzzer-alert system">
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
  &lt;path stroke="none" d="M0 0h24v24H0z" fill="none" />
  &lt;path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
@@ -52,9 +58,15 @@
 &lt;/a>
 &lt;/div>
 &lt;p>Local alerts ensure you (or the wearer) never miss a critical event. When thresholds are crossed—like abnormal heart rate or lack of movement—a discreet buzzer provides instant feedback, even before the cloud gets the message.&lt;/p>
+&lt;figure class="image center">
+&lt;img src="https://raidantimosquitos.github.io/cf-iot-spring-25-project/images/minh-falling.gif" loading="lazy" alt="Fall Detection Mechanism" width="400" height="711">
+&lt;figcaption>
+SH+™ Wearable Band Fall Detection Mechanism&lt;/figcaption>
+&lt;/figure>
+
 &lt;div class="anchor">
-&lt;h3 id="-wi-fi-enabled-gateway-to-cloud-connectivity" id="-wi-fi-enabled-gateway-to-cloud-connectivity">📶 Wi-Fi Enabled: Gateway-to-Cloud Connectivity&lt;/h3>
-&lt;a class="" href="#-wi-fi-enabled-gateway-to-cloud-connectivity" aria-label=": 📶 Wi-Fi Enabled: Gateway-to-Cloud Connectivity">
+&lt;h3 id="wi-fi-enabled-gateway-to-cloud-connectivity" id="wi-fi-enabled-gateway-to-cloud-connectivity">Wi-Fi Enabled: Gateway-to-Cloud Connectivity&lt;/h3>
+&lt;a class="" href="#wi-fi-enabled-gateway-to-cloud-connectivity" aria-label=": Wi-Fi Enabled: Gateway-to-Cloud Connectivity">
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
  &lt;path stroke="none" d="M0 0h24v24H0z" fill="none" />
  &lt;path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
@@ -64,8 +76,8 @@
 &lt;/div>
 &lt;p>&lt;strong>SH+™ wearable band&lt;/strong> doesn&amp;rsquo;t just collect data—it sends it where it matters. Through Wi-Fi connectivity to a local gateway, vital signs and motion data are securely transmitted to the cloud, enabling real-time dashboards, alerts, and remote monitoring by healthcare providers or family.&lt;/p>
 &lt;div class="anchor">
-&lt;h2 id="-secure-and-scalable" id="-secure-and-scalable">🛡️ Secure and Scalable&lt;/h2>
-&lt;a class="" href="#-secure-and-scalable" aria-label=": 🛡️ Secure and Scalable">
+&lt;h2 id="secure-and-scalable" id="secure-and-scalable">Secure and Scalable&lt;/h2>
+&lt;a class="" href="#secure-and-scalable" aria-label=": Secure and Scalable">
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
  &lt;path stroke="none" d="M0 0h24v24H0z" fill="none" />
  &lt;path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
@@ -80,8 +92,8 @@
 &lt;li>&lt;strong>OTA firmware updates&lt;/strong> to future-proof your device.&lt;/li>
 &lt;/ul>
 &lt;div class="anchor">
-&lt;h2 id="-who-is-it-for" id="-who-is-it-for">📈 Who is it for?&lt;/h2>
-&lt;a class="" href="#-who-is-it-for" aria-label=": 📈 Who is it for?">
+&lt;h2 id="who-is-it-for" id="who-is-it-for">Who is it for?&lt;/h2>
+&lt;a class="" href="#who-is-it-for" aria-label=": Who is it for?">
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
  &lt;path stroke="none" d="M0 0h24v24H0z" fill="none" />
  &lt;path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
@@ -96,8 +108,8 @@
 &lt;li>&lt;strong>Caregivers&lt;/strong> who need real-time insight into their loved one’s health&lt;/li>
 &lt;/ul>
 &lt;div class="anchor">
-&lt;h2 id="-technical-specifications-short-version" id="-technical-specifications-short-version">🔧 Technical specifications (short version)&lt;/h2>
-&lt;a class="" href="#-technical-specifications-short-version" aria-label=": 🔧 Technical specifications (short version)">
+&lt;h2 id="technical-specifications-short-version" id="technical-specifications-short-version">Technical specifications (short version)&lt;/h2>
+&lt;a class="" href="#technical-specifications-short-version" aria-label=": Technical specifications (short version)">
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
  &lt;path stroke="none" d="M0 0h24v24H0z" fill="none" />
  &lt;path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
@@ -140,8 +152,8 @@
  &lt;/tbody>
 &lt;/table>
 &lt;div class="anchor">
-&lt;h2 id="-ready-for-deployment" id="-ready-for-deployment">✅ Ready for Deployment&lt;/h2>
-&lt;a class="" href="#-ready-for-deployment" aria-label=": ✅ Ready for Deployment">
+&lt;h2 id="ready-for-deployment" id="ready-for-deployment">Ready for Deployment&lt;/h2>
+&lt;a class="" href="#ready-for-deployment" aria-label=": Ready for Deployment">
  &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
  &lt;path stroke="none" d="M0 0h24v24H0z" fill="none" />
  &lt;path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
