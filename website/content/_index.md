@@ -11,14 +11,14 @@ From the wrist to the cloud, we empower caregivers, clinicians, and researchers 
 
 {{< figure src="images/jaddy-liu-nk-xUZwSjR4-unsplash.jpg" class="center" caption="July 2023, Jaddy Liu"  alt="Image 1" >}}
 
-## 💡 What We Do
+## What We Do
 
 **SH+™** delivers a full-stack remote health monitoring system combining:
 
-- 🎯 **SH+™ wearable band** — our smart wearable with integrated motion and biometric sensing.
-- 🌐 **SH+™ cloud** — the centralized AI-enabled dashboard for data visualization, alerting, and insights.
+- **SH+™ wearable band** — our smart wearable with integrated motion and biometric sensing.
+- **SH+™ cloud** — the centralized AI-enabled dashboard for data visualization, alerting, and insights.
 
-## 🔧 End-to-End capabilities
+## End-to-End capabilities
 
 | SH+™ wearable band           | SH+™ cloud                          |
 | ----------------------------- | ------------------------------------ |
@@ -27,7 +27,7 @@ From the wrist to the cloud, we empower caregivers, clinicians, and researchers 
 | ✅ Wi-Fi Gateway Connectivity | ✅ Secure, Encrypted Cloud           |
 | ✅ Comfortable, Discreet Wear | ✅ Device Management + Remote Config |
 
-## 🔥 Why it matters?
+## Why it matters?
 
 _Traditional healthcare reacts._ **SH+™ anticipates.**
 
@@ -37,7 +37,7 @@ _Traditional healthcare reacts._ **SH+™ anticipates.**
 
 {{< figure src="images/rajiv-perera-_JjYYsQPneE-unsplash.jpg" class="center" caption="January 2021, Rajiv Perera"  alt="Image 3" >}}
 
-## 👥 Who It’s For
+## Who Is It For
 
 - **Hospitals & Clinics**: Scalable remote monitoring with clinical-grade data.
 - **Elder Care Providers**: Passive safety tracking with instant alerts.
@@ -46,11 +46,11 @@ _Traditional healthcare reacts._ **SH+™ anticipates.**
 
 {{< figure src="images/national-cancer-institute-L8tWZT4CcVQ-unsplash.jpg" class="center" caption="December 2019, National Cancer Institute"  alt="Image 2" >}}
 
-## 🚀 Ready to Build the Future of Connected Care?
+## Ready to Build the Future of Connected Care?
 
-- 👉 Explore the Wearable → [SH+™ Wearable Band]({{< ref "/products/prod01" >}}).
-- 👉 Dive into the Dashboard → [SH+™ Cloud]({{< ref "/products/prod02" >}}).
-- 👉 Or [Talk to Us]({{< ref "/contact" >}}) about integration & deployment.
+- Explore the Wearable → [SH+™ Wearable Band]({{< ref "/products/prod01" >}}).
+- Dive into the Dashboard → [SH+™ Cloud]({{< ref "/products/prod02" >}}).
+- Or [Talk to Us]({{< ref "/contact" >}}) about integration & deployment.
 
 ### **SH+™** — _Because real-time health deserves real-time insight._
 
