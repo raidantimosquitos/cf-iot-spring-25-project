@@ -29,7 +29,7 @@ Contains all source code for our device, dashboard, AWS scripts, etc.
 
 The demo dashboard [link](https://g-0ccaa910f7.grafana-workspace.ap-northeast-1.amazonaws.com/dashboard/snapshot/grRCAbn4bHOS27t0MIPByjxTr91owSfO)
 
-![System Architecture](images/wearable-device-architecture-diagram.png)
+![System Architecture](images/wearable-device-architecture-diagram_2.png)
 
 ---
 
